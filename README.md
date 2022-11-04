@@ -26,7 +26,7 @@ I made a website about digital agency, but basically what I did was to take a de
 
 ## Galery
 
-![Digital-agency](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/digitalagency.jpg)
+![Digital-agency](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/digitalagency/digitalagency.jpg)
 
 ![Digital-agency](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/digitalagency/1.jpg)
 
