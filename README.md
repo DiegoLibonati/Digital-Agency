@@ -28,13 +28,13 @@ I made a website about digital agency, but basically what I did was to take a de
 
 ![Digital-agency](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/digitalagency.jpg)
 
-![Digital-agency](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/digitalagency-1.jpg)
+![Digital-agency](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/digitalagency/1.jpg)
 
-![Digital-agency](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/digitalagency-2.jpg)
+![Digital-agency](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/digitalagency/2.jpg)
 
-![Digital-agency](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/digitalagency-3.jpg)
+![Digital-agency](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/digitalagency/3.jpg)
 
-![Digital-agency](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/digitalagency-4.jpg)
+![Digital-agency](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/digitalagency/4.jpg)
 
 ## Portfolio Link
 
