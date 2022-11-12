@@ -42,7 +42,47 @@ I made a website about digital agency, but basically what I did was to take a de
 
 ## Video
 
-
-
 https://user-images.githubusercontent.com/99032604/199859384-a38af1b8-8f0c-495c-a609-41ba4eb00445.mp4
 
+## Documentation
+
+### ./navbar.js
+
+`changeActiveClass()` this function will allow us to style the navLink that was pressed and is active:
+
+```
+const changeActiveClass = ({ target }) => {
+  for (const navLink of navLinks) {
+    navLink.classList.remove("active");
+  }
+
+  target.classList.add("active");
+};
+```
+
+### ./scrollConfig.js
+
+Knowing the height of the navbar that we obtain in the variable `heigthNavbar` we will be able to execute the function `scrollToSection()` which basically serves to go to a specific section when a link in the navbar is touched, that is, a navLink:
+
+```
+const heigthNavbar = navbar.getBoundingClientRect().height;
+
+const scrollToSection = (e) => {
+  e.preventDefault();
+
+  const navbarLinkId = e.target.href.substring(e.target.href.indexOf("#") + 1);
+
+  sections.forEach((section) => {
+    if (section.id === navbarLinkId) {
+      const sectionTop = section.offsetTop;
+
+      const sectionTopLessNavbarHeigth = sectionTop - heigthNavbar;
+
+      window.scrollTo({
+        left: 0,
+        top: sectionTopLessNavbarHeigth,
+      });
+    }
+  });
+};
+```
