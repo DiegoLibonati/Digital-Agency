@@ -38,7 +38,7 @@ I made a website about digital agency, but basically what I did was to take a de
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Digital%20agency%20page`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Digital%20Agency%20Page`
 
 ## Video
 
