@@ -24,21 +24,9 @@ I made a website about digital agency, but basically what I did was to take a de
 3. Javascript
 4. HTML5
 
-## Galery
-
-![Digital-agency](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/digitalagency/digitalagency.jpg)
-
-![Digital-agency](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/digitalagency/1.jpg)
-
-![Digital-agency](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/digitalagency/2.jpg)
-
-![Digital-agency](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/digitalagency/3.jpg)
-
-![Digital-agency](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/Bootstrap/Imagenes/digitalagency/4.jpg)
-
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Digital%20Agency%20Page`
+[`https://www.diegolibonati.com.ar/#/project/19`](https://www.diegolibonati.com.ar/#/project/19)
 
 ## Video
 
